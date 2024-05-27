@@ -1,18 +1,16 @@
-<h1>Projeto XYZ</h1>
-<p>Este é um projeto simples para demonstração.</p>
+<h1>Projeto Calculadora IMC</h1>
+<p>Este é um projeto simples para calcular o IMC.</p>
 <h2>Descrição</h2>
-<p>Uma descrição mais detalhada do projeto, explicando o que é, para que serve e por que alguém deveria usá-lo.</p>
-<h2>Funcionalidades</h2>
-<ul>
-<li>Funcionalidade 1</li>
-<li>Funcionalidade 2</li>
-<li>Funcionalidade 3</li>
-</ul>
-<h2>Instalação</h2>
-<p>Instruções sobre como instalar ou configurar o projeto localmente.</p>
-<pre><code>git clone https://github.com/seu-usuario/nome-do-projeto.git</code></pre>
-<h2>Contribuição</h2>
-<p>Instruções sobre como outros desenvolvedores podem contribuir para o projeto.</p>
-<pre><code>git checkout -b feature/nova-feature</code></pre>
-<h2>Licença</h2>
-<p>Este projeto é licenciado sob a <a href="https://opensource.org/licenses/MIT">Licença MIT</a>.</p>
+<p>O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em m), usando a fórmula</p>
+<h2>Tabela IMC</h2></h2>
+<p>A tabela IMC é com base nos seguintes valores:
+Menor que 18,5: Magreza
+18,5 a 24,9: Normal
+25 a 29,9: Sobrepeso
+30 a 34,9: Obesidade grau I
+35 a 39,9: Obesidade grau II
+Maior que 40: Obesidade grau III</p>
+<h2>Importância</h2>
+<p>Ajuda a identificar problemas de obesidade ou desnutrição.
+Pode prever riscos de doenças crônicas, como diabetes e hipertensão.
+Lembre-se de que o IMC tem limitações e não considera a composição corporal.</p>
